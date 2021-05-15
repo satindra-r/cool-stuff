@@ -1,1 +1,1 @@
-start javaw -jar "Screen_Share.jar"
+@start javaw -jar "Screen_Share.jar"

@@ -1,1 +1,1 @@
-start javaw -jar "Lock_The_Prison.jar"
+@start javaw -jar "Lock_The_Prison.jar"

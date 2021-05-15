@@ -1,1 +1,1 @@
-start javaw -jar "Color Picker.jar"
+@start javaw -jar "Color Picker.jar"
